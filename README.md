@@ -1,51 +1,17 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A Jornada da IA: Um Passeio pelo Futuro 🌌🌀
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Uma figura majestosa, inspirada por Mythra de Xenoblade 2, está orgulhosamente no centro de uma extensão celestial, segurando uma espada majestosa com elegância, sua mão esbelta adornada com uma armadura intrincada e etérea. O físico esbelto do ser está envolto em vestes esvoaçantes e iridescentes que brilham com um brilho suave e luminescente, como se infundidas com poeira estelar. As características faciais são delicadas, mas fortes, com olhos penetrantes, azul-safira, que queimam com uma luz interior, e pele que irradia um tom quente e dourado. O penteado é um emaranhado selvagem de mechas loiras prateadas, adornadas com pinos brilhantes, semelhantes a constelações, que ecoam a atmosfera estrelada. A espada, com sua lâmina esbelta e cristalina, parece zumbir com uma energia sobrenatural, e seu punho é feito de um material brilhante e cristalino que refrata a luz em padrões caleidoscópicos e cintilantes. O fundo celestial é inundado por tons de azul bebê, lavanda e rosa, com nuvens sutis e giratórias de gás e poeira que evocam uma sensação de movimento eterno.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
+- Ferramenta **[README](https://readme.so)** para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "Leonardo AI" para criar a personagem baseada do game Xenoblade 2, Mythra. O texto da descrição foi retirado também do Leonardo AI.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Com base na descrição da personagem, foi gerada quatro imagens, cada uma diferente da outra. Uma me agradou muito rs
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+A IA é incrível. Mau posso esperar para ver o próximo passo da IA!
